@@ -1,4 +1,4 @@
 # TibFinance.github.io
 Tib Finance Api Documentation
 
-View in [Here](https://tibfinance.github.io/) 
+View in [Here](https://tibfinance.github.io) 
