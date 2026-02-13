@@ -1,4 +1,3 @@
-# TibFinance.github.io
-Tib Finance Api Documentation
+# TIB Finance Documentation
 
-View in [Here](https://tibfinance.github.io) 
+Redirects to [doc.tib.finance](https://doc.tib.finance).
